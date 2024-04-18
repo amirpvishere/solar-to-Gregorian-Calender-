@@ -1,4 +1,3 @@
-# solar-to-Gregorian-Calender-
 def date_changing(day, month, year):
 
     day += 22
